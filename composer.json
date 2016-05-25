@@ -44,9 +44,7 @@
         "sonata-project/seo-bundle": "For SEO breadcrumb block service usage"
     },
     "conflict": {
-        "jms/serializer": "<0.13",
-        "sonata-project/seo-bundle": "<2.0 || >=3.0",
-        "sonata-project/doctrine-orm-admin-bundle": "<3.0 || >=4.0"
+        "jms/serializer": "<0.13"
     },
     "autoload": {
         "psr-4": { "Sonata\\UserBundle\\": "" }
